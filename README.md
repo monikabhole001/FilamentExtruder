@@ -22,7 +22,7 @@ Resin pellets are fed from the hopper and transported towards the heater by moto
 
 ## Hardware Used
 
-- Arduino Uno (or compatible)
+- Arduino Uno
 - MAX6675 thermocouple module
 - I2C LCD display (16x2)
 - MOSFET for heater control via PWM
@@ -61,6 +61,6 @@ Feel free to contribute or raise issues.
 
 ---
 
-**Author:** Your Name  
-**Date:** 2025
+**Author:** Monika Bhole  
+**Date:** 2021
 
